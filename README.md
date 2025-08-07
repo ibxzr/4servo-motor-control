@@ -30,7 +30,7 @@ The servos sweep for 2 seconds, then hold position at 90°.
 
 ## 🖼️ Circuit Illustration
 
-![Output](./output.jpg)
+![Output](./Output.jpg)
 
 ## ⚠️ Notes
 
